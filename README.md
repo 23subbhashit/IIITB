@@ -10,9 +10,9 @@
 ## Execution
 - Create a Jenkins pipeline for the same using the GitHub URL of this repository, then you can kubectl command to get the generated services.
 
-- You can also check the jenkins pipeline for the status
+- You can also check the jenkins pipeline for the status of each,as shown for bellman ford API.
 <p align="center">
-  <img width="513" alt="Kubectl services" src="">
+  <img width="513" alt="Kubectl services" src="https://github.com/23subbhashit/SPEmajorF/assets/43717493/9519ada6-c12c-4537-b821-0c25051e3ef3">
 </p>
 
 - From here select the service of your choice and  get the URL for the same using minikube ip address and port as shown.
