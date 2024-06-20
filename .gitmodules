@@ -7,3 +7,6 @@
 [submodule "Astar"]
 	path = Astar
 	url = https://github.com/23subbhashit/Astar.git
+[submodule "SPEmajorF"]
+	path = SPEmajorF
+	url = https://github.com/23subbhashit/SPEmajorF.git
