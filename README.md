@@ -10,6 +10,11 @@
 ## Execution
 - Create a Jenkins pipeline for the same using the GitHub URL of this repository, then you can kubectl command to get the generated services.
 
+- You can also check the jenkins pipeline for the status
+<p align="center">
+  <img width="513" alt="Kubectl services" src="">
+</p>
+
 - From here select the service of your choice and  get the URL for the same using minikube ip address and port as shown.
 
 <p align="center">
@@ -28,3 +33,7 @@
   <p align="center">
   <img width="513" alt="dashboard" src="https://github.com/23subbhashit/SPEmajorF/assets/43717493/fdaceba9-7aec-4ba6-b0b4-7dc082fda996">
   </p>
+- You can also check the log status on ELK cloud
+<p align="center">
+  <img width="513" alt="dashboard" src="https://github.com/23subbhashit/IIITB-Path-Finder/assets/43717493/eea9ca22-7ea9-41d1-afb1-5954feb1d0d8">
+</p>
