@@ -1,0 +1,9 @@
+[submodule "bellman"]
+	path = bellman
+	url = https://github.com/23subbhashit/bellman.git
+[submodule "Dijkstra"]
+	path = Dijkstra
+	url = https://github.com/23subbhashit/Dijkstra.git
+[submodule "Astar"]
+	path = Astar
+	url = https://github.com/23subbhashit/Astar.git
